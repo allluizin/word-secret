@@ -1,4 +1,8 @@
 <h1>Meu primeiro Projeto com ReactJS</h1>
+
+<a href="https://allluizin.github.io/word-secret" />Clique aqui pra rodar o jogo</a>
+
+
 <h3>O que foi utilizado:</h3>
 #Hooks (useCalback, useState, useEffect)<br>
 #Usei um pouco de HTML e CSS pra estilizar minhas páginas<br>
